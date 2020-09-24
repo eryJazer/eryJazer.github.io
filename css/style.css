@@ -64,6 +64,14 @@ h2{
     justify-content: space-between;
 }
 
+.letra{
+    font-size: 1.5rem;
+}
+
+.parrafo{
+    font-size: 2rem;
+}
+
 .contenido-header h1{
     color: silver;
     padding-bottom: 2rem;
